@@ -7,6 +7,8 @@ a.anchor {
 .resume {
 	border: 1px solid #000;
 	margin: 2em;
+	height: 650px;
+	width: 500px;
 }
 
 hr.divider {
