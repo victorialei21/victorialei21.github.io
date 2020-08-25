@@ -4,3 +4,11 @@ a.anchor {
 	top: -75px;
 	visibility: hidden;
 }
+.resume {
+	border: 1px solid #000;
+	margin: 2em;
+}
+
+hr.divider {
+	width: 100%;
+}
