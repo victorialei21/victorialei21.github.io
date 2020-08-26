@@ -14,3 +14,13 @@ a.anchor {
 hr.divider {
 	width: 100%;
 }
+
+.title-center {
+	text-align: center;
+	color: black;
+}
+
+.image-center {
+	display: block;
+	margin: 0 auto;
+}
