@@ -1,3 +1,3 @@
 # victorialei21.github.io
 
-A portfolio website for Victoria Lei
+A personal/portfolio website for Victoria Lei.
